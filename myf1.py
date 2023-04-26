@@ -1,0 +1,2 @@
+print:wq
+("hello")
