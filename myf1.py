@@ -1,2 +1,1 @@
-print:wq
-("hello")
+print("hello")
